@@ -9,6 +9,7 @@
 - 💬 Ask me about **.NET, C#, backend development, and system architecture**
 - 📫 How to reach me: **eduardo.rocha.swe@gmail.com**
 - 😄 Pronouns: **he/him**
+- (♟️) Strategic thinking + (🎲) Creative problem-solving + (🤖) AI mindset
 
 
 ---
